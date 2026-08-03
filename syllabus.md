@@ -7,15 +7,16 @@ title: "Syllabus"
 
 <div id="subtitle">Fundamentals of Computer Science II</div>
 
-**Spring 2022**
+**Fall 2026**
 
-Instructors: 
-- 101 - <a href="http://faculty.ycp.edu/~dbabcock">Dr. David Babcock</a>, <dbabcock@ycp.edu>
-- 102,103 - <a href="http://faculty.ycp.edu/~kkambhampaty">Dr. Krishna Kambhampaty</a>, <kkambhampaty@ycp.edu>
 
-Office Hours:
-- **Dr. Babcock** - KEC 117A: M 1:30-3pm, T 2-3pm, W 1:30-2:30pm, R 9:30-11am, or by appointment
-- **Dr. Kambhampaty** - KEC115: M 9:00-10:30am, T 1-2pm, W 9:00-10:30am, R 1-2pm, or by appointment
+Instructor: 
+- Dr. Dian Chen, <dchen3@ycp.edu>, Office KEC 110
+
+> Section(s) | Instructor | Office hours
+> ---------- | ---------- | ------------
+> 101 (12:00 PM - 1:45 PM KEC xxx) | Dian Chen, <dchen3@ycp.edu> | M X, T X,..., or by appointment
+> 102 (2:00 PM - 3:15 PM KEC xxx) | Dian Chen, <dchen3@ycp.edu> | M X, T X, ... , or by appointment
 
  Section  | Days      |  Time       | Room    | Final Exam
  -------- | --------- |  ---------- | ------- | ----------
@@ -45,14 +46,14 @@ Mark Allen Weiss, [Data Structures & Problem Solving Using Java, 4th ed.](http:/
 
 Class meetings will be a mix of lecture/discussion and in-class lab exercises designed to illustrate the concepts we are covering. A series of programming projects in the Java programming language will be assigned at approximately 1-2 week intervals, to be completed individually. Written homework assignments may be assigned.
 
-We will use the IntelliJ IDEA for labs and programming assignments in Java. This is available for free (the Community Edition is sufficient) from [www.jetbrains.com/idea/](https://www.jetbrains.com/idea/). (You will also need the [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html).)
+We will use IntelliJ IDEA for labs and programming assignments in Java. This is available for free (the Community Edition is sufficient) from [www.jetbrains.com/idea/](https://www.jetbrains.com/idea/). (You will also need the [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html).)
 <!--
 In-class quizzes will be given frequently, typically at the beginning of class. One missed quiz will be forgiven. Quizzes may not be made up.
 -->
 
 There will be three midterm exams and one comprehensive final exam.  The dates are shown in the [Schedule](schedule.html).
 
-We will be covering a significant amount of material in the course, and it is very important that you keep up. If you have any questions, please ask me in class, office hours, or through email. I'm here to help!
+We will be covering a significant amount of material in the course, and it is very important that you keep up. If you have any questions, please ask me in class, during office hours, or through email. I'm here to help!
 
 ## Learning Outcomes
 
@@ -63,7 +64,7 @@ By the end of this course, you will be able to:
 3.  Understand and use fundamental data structures such as arrays, linked lists, trees, and hash tables
 4.  Implement basic array- and list-based data structures
 5.  Understand and implement fundamental algorithms such as searching and sorting
-6.  Analyze algorithms to determine their asympotic running time
+6.  Analyze algorithms to determine their asymptotic running time
 7.  Express upper bounds using big-O notation
 8.  Understand and use recursion
 9.  Solve recurrences
@@ -97,11 +98,11 @@ You **must** also make a **legitimate** attempt to complete every homework assig
 
 ### Course website
 
-Please check the [course web page](https://ycpcs.github.io/cs201-spring2022), regularly for important announcements.
+Please check the [course web page](https://ycpcs.github.io/cs201-fall2026), regularly for important announcements.
 
 ### Reading Assignments
 
-Reading assignments from the supplemental textbook are posted in the [Schedule](schedule.html). We suggest you read through the lecture notes and supplemental material **before** class. When we give a lecture, we will assume you have looked at the material for that day, that way we can utilize class time to answer questions about parts of the reading you did not understand to your satisfaction and complete the lab activities.
+Reading assignments from the supplemental textbook are posted in the [Schedule](schedule.html). We suggest you read through the lecture notes and supplemental material **before** class. When we give a lecture, we will assume you have looked at the material for that day; that way we can utilize class time to answer questions about parts of the reading you did not understand to your satisfaction and complete the lab activities.
 
 ### Homework assignments
 
@@ -109,7 +110,7 @@ You **must** make a legitimate attempt to complete every homework assignment. We
 
 ### Posting and submission of assignments and labs
 
-Assignments and labs will be posted as zip files on the [course web page](https://ycpcs.github.io/cs201-fall2021).
+Assignments and labs will be posted as zip files on the [course web page](https://ycpcs.github.io/cs201-fall2026).
 
 Assignments and labs will be submitted using the [Marmoset server](https://cs.ycp.edu/marmoset). If you do not already have an account, you will receive an email containing the username and password for this server.
 
@@ -140,7 +141,7 @@ We expect you to attend class and participate regularly in class activities. If 
 
 We expect you to conduct yourself as a professional in this course. Professionalism includes:
 
--   Respect for and courteous interaction with peers, faculty and facilities;
+-   Respect for and courteous interaction with peers, faculty, and facilities;
 -   Integrity, which includes at its core honesty, responsibility and accountability for one’s own actions;
 -   Sensitivity and appreciation for diverse cultures, backgrounds, and life experiences;
 -   Constructive evaluation, which means that criticism is offered and accepted in a productive manner;
