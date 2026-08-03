@@ -6,7 +6,7 @@ var PREPOPULATE = true;
 
 var courseInfo = {
 	courseName: "CS 201: Fundamentals of Computer Science II",
-	classDays: ["Tue", "Thur"],
+	classDays: ["Mon", "Wed"],
 
 	// The following is true if final exam is on the LAST day of class;
 	// false if final exam is during exam week.
