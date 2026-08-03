@@ -11,7 +11,10 @@ This page links to lecture example code.
 
 Date     |    File                          
 -------- | --------------------------------
-Jan 27   | [CS201\_Lecture01\_Gradle.zip](CS201_Lecture01_Gradle.zip)  
+Aug 24   | [CS201\_Lecture01\_Gradle.zip](CS201_Lecture01_Gradle.zip)  
+
+
+<!--
 Feb 1    | [CS201\_Lecture02\_Gradle.zip](CS201_Lecture02_Gradle.zip)  
 Feb 3    | [CS201\_Lecture03\_Gradle.zip](CS201_Lecture03_Gradle.zip)  
 Feb 8    | [CS201\_Lecture04\_Gradle.zip](CS201_Lecture04_Gradle.zip) <br />  [CS201\_GUIMVCDemo\_Gradle.zip](CS201_GUIMVCDemo_Gradle.zip)
@@ -30,3 +33,4 @@ Apr 14   | [CS201\_Lecture19\_Gradle.zip](CS201_Lecture19_Gradle.zip)
 Apr 19   | [CS201\_Lecture20\_Gradle.zip](CS201_Lecture20_Gradle.zip)  
 Apr 21   | [CS201\_Lecture21\_Gradle.zip](CS201_Lecture21_Gradle.zip)  
 Apr 28   | [CS201\_Lecture23\_Gradle.zip](CS201_Lecture23_Gradle.zip)  
+-->
