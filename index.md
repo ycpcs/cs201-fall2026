@@ -3,7 +3,7 @@ layout: default
 title: Home page
 ---
 
-# CS 201, Spring 2022
+# CS 201, Fall 2026
 
 <div id="subtitle">Fundamentals of Computer Science II</div>
 
@@ -25,6 +25,8 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 * [JDK 17 API documentation](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
 
 ## News
+
+<!--
 * **Jan 27** &mdash; Welcome back!
 * **Updated - Feb 10** &mdash; [Assignment 1 Milestone 1](assign/assign01.html) is due.
 * **Feb 21** &mdash; [Assignment 1 Milestone 2](assign/assign01.html) is due.
@@ -40,9 +42,12 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 * **TUESDAY MAY 10 8:00am-10:00am - FINAL EXAM CS201.101 (8am section)**
 * **TUESDAY MAY 10 10:15am-12:15pm - FINAL EXAM CS201.102 (11am section)**
 * **TUESDAY MAY 10 12:45pm-2:45pm - FINAL EXAM CS201.103 (2pm section)**
+-->
+
+
+* **Aug 25** &mdash; Welcome back!
 
 <!--
-* **Aug 25** &mdash; Welcome back!
 * **Updated - Sep 6** &mdash; [Assignment 1 Milestone 1](assign/assign01.html) is due.
 * **Sept 16** &mdash; [Assignment 1 Milestone 2](assign/assign01.html) is due.
 * **Sept 26** &mdash; [Assignment 2 Milestone 1](assign/assign02.html) is due.
