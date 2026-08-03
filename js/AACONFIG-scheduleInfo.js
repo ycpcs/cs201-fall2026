@@ -90,9 +90,6 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(16, "Generic Algorithms")
  	},
  	{
- 		topic: new Topic("** SPARTAN DAY", "")
- 	},
- 	{
  		topic: new Topic("Exam 2 Review", "")
  	},
  	{
