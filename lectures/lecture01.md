@@ -3,9 +3,11 @@ layout: default
 title: "Lecture 1: Introduction, Primitive Java"
 ---
 
+**The slides used in today's lecture will be posted here after class: [slides](slides/L1.pdf)**
+
 ## Why are you here?
 
-Computer programming is an essential skill not only in the field of computing, but also engineering, science, mathematics, and every discipline involving quantitative data. For example: engineers build models of systems before building the systems themselves, in order to understand the important issues. The computer is the ultimate tool for modeling and simulation.
+Computer programming is an essential skill not only in the field of computing, but also in engineering, science, mathematics, and every discipline involving quantitative data. For example: engineers build models of systems before building the systems themselves, in order to understand the important issues. The computer is the ultimate tool for modeling and simulation.
 
 In this course, we will learn about the techniques needed to write complex programs and to understand their behavior.
 
@@ -15,7 +17,7 @@ In this course, we will learn about the techniques needed to write complex progr
 
 A Java program is a collection of Java classes. A Java class is a *user-defined data type*, very much like a C struct type. However, in addition to having fields (member variables), a Java class also has methods (member functions). A class is a way to add "behavior" to instances of a user-defined data type. This is the key idea in *object-oriented programming*, which will be a major theme of this course.
 
-Example Java class (type and run in within Eclipse):
+Example Java class (type and run in Eclipse):
 
 {% highlight java %}
 public class Hello {
@@ -29,15 +31,15 @@ Things to note:
 
 -   A class is a sequence of fields and methods. In the **Hello** class, there is a single method, called **main**.
 -   The **main** method returns **void**, is **public** and **static**. **public** means it's accessible by other classes. **static** means it is not an *instance method*. When you see **static** on a method, you should think of it as being like a C function.
--   **System.out.println** is a method call which prints text to the console.
+-   **System.out.println** is a method call that prints text to the console.
 
 ## Printing information to the console
 
 Notice that in the above method, we printed text to the screen/console using **System.out.println()** with the literal text enclosed in quotation marks. This method automatically appends a newline character to the end such that subsequent print statements will begin on new lines, i.e. you *do not* need to include **\n**.
 
-If you do not want the newline character automatically appended, i.e. you want subsequent print statements to continue on the same line, use **System.out.print()**.
+If you do not want the newline character automatically appended, i.e., you want subsequent print statements to continue on the same line, use **System.out.print()**.
 
-Unlike C where we needed to use **printf()** with various placeholders in order to include values from variables/expressions, for **System.out.println()** we simply *concatenate* literal text with the variables using the **+** operator. Java will convert the numeric types to their corresponding **String** representation (or use the **.toString()** method for objects which will be discussed later). For example, assuming a person's age is stored in an **int** variable called **age**, we could print their age using
+Unlike C where we needed to use **printf()** with various placeholders in order to include values from variables/expressions, for **System.out.println()** we simply *concatenate* literal text with the variables using the **+** operator. Java will convert the numeric types to their corresponding **String** representation (or use the **.toString()** method for objects, which will be discussed later). For example, assuming a person's age is stored in an **int** variable called **age**, we could print their age using
 
 {% highlight java %}
   System.out.println("Your age is " + age);
