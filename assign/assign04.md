@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 4: Mandelbrot Set Renderer"
 ---
 
-**Milestone 1** Thursday, April 21st by 11:59 PM
+**Milestone 1** Monday, Nov 16th by 11:59 PM
 
-**Milestone 2** Wednesday, May 4th by 11:59 PM
+**Milestone 2** Tuesday, Dec 1st by 11:59 PM
 
 Getting Started
 ===============
@@ -312,7 +312,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2026
          Course:     CS 201
          Assignment: assign04_ms1
 
@@ -340,7 +340,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2026
          Course:     CS 201
          Assignment: assign04_ms2
 
