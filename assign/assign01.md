@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 1: Disk Game"
 ---
 
-**Milestone 1 Due: Updated** Thursday, Feb 10th by 11:59 PM
+**Milestone 1 Due:** Wednesday, Sep 9th by 11:59 PM
 
-**Milestone 2 Due:** Monday, Feb 21st by 11:59 PM
+**Milestone 2 Due:** Sunday, Sep 20th by 11:59 PM
 
 Acknowledgment: The idea for this assignment comes from [Tom Ellman](http://pages.vassar.edu/tomellman/) at Vassar College.
 
@@ -279,7 +279,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2026
          Course:     CS 201
          Assignment: assign01_ms1
 
@@ -307,7 +307,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2026
          Course:     CS 201
          Assignment: assign01_ms2
 
