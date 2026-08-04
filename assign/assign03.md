@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 3: Klondike"
 ---
 
-**Milestone 1 Due:** Thursday, March 24th by 11:59 PM
+**Milestone 1 Due:** Wednesday, Oct 5th by 11:59 PM
 
-**Milestone 2 Due:** Wednesday, April 6th by 11:59 PM
+**Milestone 2 Due:** Thursday, Nov 5th by 11:59 PM
 
 ## Getting Started
 
@@ -190,7 +190,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2026
          Course:     CS 201
          Assignment: assign03_ms1
 
@@ -218,7 +218,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2026
          Course:     CS 201
          Assignment: assign03_ms2
 
