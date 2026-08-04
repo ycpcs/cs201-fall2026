@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 2: Tic Tac Toe"
 ---
 
-**Milestone 1 Due:** Friday, Mar 4th by 11:59 PM
+**Milestone 1 Due:** Thursday, Oct 1st by 11:59 PM
 
-**Milestone 2 Due:** Tuesday, Mar 15th by 11:59 PM
+**Milestone 2 Due:** Monday, Oct 12nd by 11:59 PM
 
 ## Getting Started
 
@@ -311,7 +311,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2026
          Course:     CS 201
          Assignment: assign02_ms1
 
@@ -339,7 +339,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2026
          Course:     CS 201
          Assignment: assign02_ms2
 
