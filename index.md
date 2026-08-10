@@ -9,6 +9,8 @@ title: Home page
 
 Welcome to the website for CS 201, Fundamentals of Computer Science II, at York College.  All information about the course will be posted here.
 
+**Use the course website for all activities. Canvas is only for announcements and assignment deadlines, so you don’t miss important dates.**
+
 ## Links
 
 * [Syllabus](syllabus.html)
