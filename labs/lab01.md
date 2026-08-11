@@ -5,7 +5,7 @@ title: "Lab 1: Dog Years"
 
 ## Getting Started
 
-Download [CS201\_Lab01\_Gradle.zip](CS201_Lab01_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Lab01\_Gradle.zip](CS201_Lab01_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. Import it into your **CS201-Fall2026** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
@@ -41,7 +41,7 @@ When you are done, submit the lab to the Marmoset server using the Terminal wind
 
 <pre>
 $ <b>cd CS201_Lab01_Gradle</b>
-CS201-Spring2022/CS201_Lab01_Gradle
+CS201-Fall2026/CS201_Lab01_Gradle
 $ <b>make submit</b>
 </pre>
 
@@ -56,7 +56,7 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2026
          Course:     CS 201
          Assignment: lab01
 
