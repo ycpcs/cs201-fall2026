@@ -3,8 +3,6 @@ layout: default
 title: "Lecture 1: Introduction, Primitive Java"
 ---
 
-**The slides used in today's lecture will be posted here after class: [slides](slides/L1.pdf)**
-
 ## Why are you here?
 
 Computer programming is an essential skill not only in the field of computing, but also in engineering, science, mathematics, and every discipline involving quantitative data. For example: engineers build models of systems before building the systems themselves, in order to understand the important issues. The computer is the ultimate tool for modeling and simulation.
