@@ -106,8 +106,8 @@ Coins[] wallet = new Coins[2];
 
 // (1)
 
-coins[0] = new Coins(0,0,0,0);
-coins[1] = new Coins(1,1,1,1);
+wallet[0] = new Coins(0,0,0,0);
+wallet[1] = new Coins(1,1,1,1);
 
 // (2)
 
