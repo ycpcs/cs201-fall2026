@@ -30,7 +30,7 @@ Select **Empty Project** from the list on the left. Change the **Project name:**
 
 This will create the root directory for all our CS201 projects.
 
-## Setting up a Terminal application
+## Setting up a Submission Plugin
 
 All labs, assignments, and exams will be submitted to the [Marmoset submission server](https://cs.ycp.edu/marmoset) through the IntelliJ IDEA plugin.
 
