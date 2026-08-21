@@ -35,7 +35,7 @@ In IntelliJ, find the gear (Settings) icon near the top-right corner. Click the 
 
 In the Plugins window, use the search bar to search for:
 
-YCPCS Marmoset Submitter
+	''YCPCS Marmoset Submitter''
 
 Install the plugin and make sure it is enabled.
 
@@ -43,7 +43,7 @@ Once the plugin has been successfully installed and enabled, you should see a ne
 
 <img src="images/IntelliJSettings.png" alt="IntelliJ Select Settings Window" height="400"/>
 
-Submitting Your Lab or Assignment
+## Submitting Your Lab or Assignment
 
 After you have completed your lab or assignment and are ready to submit it, simply click the Marmoset Submitter icon.
 
