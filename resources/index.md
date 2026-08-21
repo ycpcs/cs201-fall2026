@@ -38,7 +38,7 @@ All labs, assignments, and exams will be submitted to the [Marmoset submission s
 
 We will be using [Cygwin](http://cygwin.com/) as our terminal program. 
 
-Make sure you have first installed IntelliJ and set up your **CS201-Spring2022** project as described above. If you already installed Cygwin for CS101, skip to step 2.
+Make sure you have first installed IntelliJ and set up your **CS201-Spring2026** project as described above. If you already installed Cygwin for CS101, skip to step 2.
 
 1. Install [Cygwin](http://cygwin.com/) and the various packages as described in the [CS101 Cygwin installation guide](https://ycpcs.github.io/cs101-spring2021/installCygwin.html). **MAKE SURE YOU HAVE ALL THE PACKAGES INSTALLED** (specifically zip, unzip, make, perl, curl, and openssh).
 
