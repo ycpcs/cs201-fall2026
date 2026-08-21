@@ -37,9 +37,12 @@ In the Plugins window, use the search bar to search for:
 
 	''YCPCS Marmoset Submitter''
 
+
+<img src="images/how-to-search-plugin.png" alt="How to Search Plugin" height="400"/>
+
 Install the plugin and make sure it is enabled.
 
-Once the plugin has been successfully installed and enabled, you should see a new Marmoset Submitter icon near the top-right corner of IntelliJ.
+Once the plugin has been successfully installed and enabled, you should see a new Marmoset Submitter icon near the top-right corner of IntelliJ (very close to the Settings icon you just clicked).
 
 <img src="images/Submitter-icon.png" alt="Marmoset Submitter Icon" height="400"/>
 
