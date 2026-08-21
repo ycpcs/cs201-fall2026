@@ -33,6 +33,10 @@ All labs, assignments, and exams will be submitted to the [Marmoset submission s
 
 In IntelliJ, find the gear (Settings) icon near the top-right corner. Click the icon and select Plugins....
 
+<img src="images/Settings-icon.png" alt="Settings Icon" height="400"/>
+
+<img src="images/plugin-in-setting.png" alt="Plugin..." height="400"/>
+
 In the Plugins window, use the search bar to search for:
 
 	''YCPCS Marmoset Submitter''
@@ -51,6 +55,8 @@ Once the plugin has been successfully installed and enabled, you should see a ne
 After you have completed your lab or assignment and are ready to submit it, simply click the Marmoset Submitter icon.
 
 A login window will appear. Enter your Marmoset account username and password and follow the prompts to submit your work.
+
+<img src="images/Marmoset-login.png" alt="Marmoset Login Window" height="400"/>
 
 If your submission is successful, you should see a message indicating that the submission was successful.
 
