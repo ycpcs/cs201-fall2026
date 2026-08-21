@@ -41,7 +41,7 @@ Install the plugin and make sure it is enabled.
 
 Once the plugin has been successfully installed and enabled, you should see a new Marmoset Submitter icon near the top-right corner of IntelliJ.
 
-<img src="images/IntelliJSettings.png" alt="IntelliJ Select Settings Window" height="400"/>
+<img src="images/Submitter-icon.png" alt="Marmoset Submitter Icon" height="400"/>
 
 ## Submitting Your Lab or Assignment
 
