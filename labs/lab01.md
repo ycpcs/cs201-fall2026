@@ -5,11 +5,11 @@ title: "Lab 1: Dog Years"
 
 ## Getting Started
 
-Download [CS201\_Lab01\_Gradle.zip](CS201_Lab01_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. Import it into your **CS201-Fall2026** IntelliJ project using
+Download [CS201\_Lab01\_Gradle.zip](CS201_Lab01_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory (folder). Import it into your **CS201-Fall2026** IntelliJ project using
 
-> **File&rarr;New&rarr;Module from Existing Sources...**
+> **File&rarr;New&rarr;Project from Existing Sources...**
 
-Select the **CS201\_Lab01\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Select the **CS201\_Lab01\_Gradle** directory and click **Select Folder**.
 
 You should see a project called **CS201\_Lab01\_Gradle** in the Project window.
 
@@ -37,7 +37,10 @@ Use a **java.util.Scanner** object to read from the keyboard.
 
 ## Submitting
 
-When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
+When you are done, submit the lab to the Marmoset server using the "YCPCS Marmoset Submitter" Plugin. See the last two sections of **resources** if you haven't installed the plugin.
+
+<!--
+the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
 $ <b>cd CS201_Lab01_Gradle</b>
@@ -62,3 +65,5 @@ Details:
 
 ######################################################################
 </pre>
+
+-->
