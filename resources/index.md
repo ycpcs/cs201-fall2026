@@ -26,7 +26,7 @@ Select **New Project** which will open the new project dialog
 
 > <img src="images/IntelliJNewProject.png" alt="IntelliJ New Project Window" height="500"/>
 
-Select **Empty Project** from the list on the left. Change the **Project name:** to **CS201-Spring2022** and select the **Project location:** to be the location where you want to keep all your CS201 projects, e.g. **C:/Users/user/Documents/CS201-Spring2022** or **~/Documents/CS201-Spring2022** (**BE SURE THE LOCATION DOES NOT CONTAIN A SPACE IN THE PATH** or you may have issues when setting up the IntelliJ terminal), and click **Finish**.
+Select **Empty Project** from the list on the left. Change the **Project name:** to **CS201-Fall2026** and select the **Project location:** to be the location where you want to keep all your CS201 projects, e.g. **C:/Users/user/Documents/CS201-Fall2026** or **~/Documents/CS201-Fall2026** (**BE SURE THE LOCATION DOES NOT CONTAIN A SPACE IN THE PATH** or you may have issues when setting up the IntelliJ terminal), and click **Finish**.
 
 This will create the root directory for all our CS201 projects.
 
