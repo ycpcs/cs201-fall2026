@@ -25,7 +25,7 @@ Create a folder named **CS201-Fall2026** in a location where you can easily find
 
 **BE SURE THE LOCATION DOES NOT CONTAIN A SPACE IN THE PATH**, or you may have issues later when setting up and using the IntelliJ terminal if we need to use it.
 
-Throughout the semester, whenever you create a new **lab or assignment**, place it inside the **CS201-Fall2026** folder. Keeping all of your CS201 work in this folder will help you stay organized and make your projects easier to find.
+Throughout the semester, whenever you download a new **lab or assignment**, unzip it and place it inside the **CS201-Fall2026** folder. Keeping all of your CS201 work in this folder will help you stay organized and make your projects easier to find.
 
 ## Setting up a Submission Plugin
 
