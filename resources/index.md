@@ -32,8 +32,11 @@ This will create the root directory for all our CS201 projects.
 
 ## Setting up a Terminal application
 
-All labs, assignments, and exams will be submitted to the [Marmoset submission server](https://cs.ycp.edu/marmoset) through the IntelliJ IDEA Terminal. This may require some additional installations depending on your operating system.
+All labs, assignments, and exams will be submitted to the [Marmoset submission server](https://cs.ycp.edu/marmoset) through the IntelliJ IDEA plugin.
 
+**TBD**
+
+<!--
 ### Windows 10
 
 We will be using [Cygwin](http://cygwin.com/) as our terminal program. 
@@ -85,3 +88,5 @@ A few useful terminal commands are
 > -   **ls** - list the files/directories in the current location
 > -   **cd ..** - change directory to the parent directory of the current location
 > -   **cd** *[directory]* - change directory to the child directory named *[directory]*
+
+-->
