@@ -18,23 +18,40 @@ All of the software we are using is open source (free). I encourage you to downl
 
 ## Initial Setup
 
-Once you have installed the Java JDK and IntelliJ, start IntelliJ which should open a welcome window
+Create a folder named **CS201-Fall2026** in a location where you can easily find and access it throughout the semester. For example:
 
-> <img src="images/IntelliJWelcome.png" alt="IntelliJ Welcome Window" height="500"/>
+* **Windows:** `C:/Users/user/Documents/CS201-Fall2026`
+* **macOS/Linux:** `~/Documents/CS201-Fall2026`
 
-Select **New Project** which will open the new project dialog
+**BE SURE THE LOCATION DOES NOT CONTAIN A SPACE IN THE PATH**, or you may have issues later when setting up and using the IntelliJ terminal if we need to use it.
 
-> <img src="images/IntelliJNewProject.png" alt="IntelliJ New Project Window" height="500"/>
-
-Select **Empty Project** from the list on the left. Change the **Project name:** to **CS201-Fall2026** and select the **Project location:** to be the location where you want to keep all your CS201 projects, e.g. **C:/Users/user/Documents/CS201-Fall2026** or **~/Documents/CS201-Fall2026** (**BE SURE THE LOCATION DOES NOT CONTAIN A SPACE IN THE PATH** or you may have issues when setting up the IntelliJ terminal), and click **Finish**.
-
-This will create the root directory for all our CS201 projects.
+Throughout the semester, whenever you create a new **lab or assignment**, place it inside the **CS201-Fall2026** folder. Keeping all of your CS201 work in this folder will help you stay organized and make your projects easier to find.
 
 ## Setting up a Submission Plugin
 
 All labs, assignments, and exams will be submitted to the [Marmoset submission server](https://cs.ycp.edu/marmoset) through the IntelliJ IDEA plugin.
 
-**TBD**
+In IntelliJ, find the gear (Settings) icon near the top-right corner. Click the icon and select Plugins....
+
+In the Plugins window, use the search bar to search for:
+
+YCPCS Marmoset Submitter
+
+Install the plugin and make sure it is enabled.
+
+Once the plugin has been successfully installed and enabled, you should see a new Marmoset Submitter icon near the top-right corner of IntelliJ.
+
+<img src="images/IntelliJSettings.png" alt="IntelliJ Select Settings Window" height="400"/>
+
+Submitting Your Lab or Assignment
+
+After you have completed your lab or assignment and are ready to submit it, simply click the Marmoset Submitter icon.
+
+A login window will appear. Enter your Marmoset account username and password and follow the prompts to submit your work.
+
+If your submission is successful, you should see a message indicating that the submission was successful.
+
+Once you see the successful submission message, you are all set!
 
 <!--
 ### Windows 10
