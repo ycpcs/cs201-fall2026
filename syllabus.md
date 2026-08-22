@@ -16,7 +16,7 @@ Instructor:
 
 > Section | Days | Classroom 
 > ---------- | ---------- | ------------ 
-> 101 (12:00 PM - 1:45 PM) | Mon/Wed | KEC 119 
+> 101 (12:30 PM - 1:45 PM) | Mon/Wed | KEC 119 
 > 102 (2:00 PM - 3:15 PM) | Mon/Wed | KEC 119 
 
 
