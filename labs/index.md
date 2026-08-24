@@ -20,11 +20,11 @@ Any labs not completed by the exam they precede will receive no credit.
 <b>Make sure you have set up the outer project directory properly as described in the Resources tab.</b>
 </div>
 
-## Procedure to Fix the Gradle Sync Error in IntelliJ IDEA
+# Procedure to Fix the Gradle Sync Error in IntelliJ IDEA
 
 After importing your lab project into IntelliJ IDEA, follow the steps below to make sure the project is configured correctly.
 
-1. Sync the Gradle Project
+## 1. Sync the Gradle Project
 
 After importing the lab into IntelliJ IDEA, the project may automatically sync with Gradle. If the project doesn't automatically sync, you can manually sync it by following these steps.
 
@@ -42,13 +42,13 @@ If you see a Gradle error, similar to the example below, continue with the follo
 
 [Insert image of the Gradle error message here]
 
-2. Open build.gradle
+## 2. Open build.gradle
 
 Find and open the build.gradle file in your project.
 
 There are two changes you need to make in this file.
 
-**Change 1: Replace jcenter() with mavenCentral()**
+### Change 1: Replace jcenter() with mavenCentral()
 
 Around line 19 of the build.gradle file, you should see:
 
@@ -63,7 +63,7 @@ mavenCentral()
 
 [Insert image showing the jcenter() and mavenCentral() change here]
 
-**Change 2: Update mainClassName**
+### Change 2: Update mainClassName
 
 Near the end of the build.gradle file, you should see something similar to:
 
@@ -83,7 +83,7 @@ Make sure the application { } block is placed at the top level of the build.grad
 
 [Insert image showing the completed application { } block here]
 
-3. Save and Sync Again
+## 3. Save and Sync Again
 
 After making both changes:
 
