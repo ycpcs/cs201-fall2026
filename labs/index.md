@@ -30,9 +30,11 @@ After importing the lab into IntelliJ IDEA, the project may automatically sync w
 
 Find the Gradle icon on the right-side toolbar.
 
+![Gradle icon](images/gradle_icon.png)
+
 Click the Gradle icon to open the Gradle panel. Then click the first icon on the left, which is the Sync/Reload Gradle Project button.
 
-![Gradle icon](images/gradle_icon.png)
+![Sync icon](images/re-run.png)
 
 Wait for IntelliJ IDEA to finish syncing the project.
 
@@ -40,7 +42,7 @@ If you do not see any error messages, you are all set and can start working on y
 
 If you see a Gradle error, similar to the example below, continue with the following steps.
 
-[Insert image of the Gradle error message here]
+![error message](images/error.png)
 
 ## 2. Open build.gradle
 
