@@ -42,7 +42,7 @@ If you do not see any error messages, you are all set and can start working on y
 
 If you see a Gradle error, similar to the example below, continue with the following steps.
 
-> <img alt="Error Message" src="images/error.png" style="width: 600px;">
+> <img alt="Error Message" src="images/error.png" style="width: 800px;">
 
 ## 2. Open build.gradle
 
@@ -63,7 +63,7 @@ For example:
 // jcenter()
 mavenCentral()
 
-> <img alt="Re Sync" src="images/re-run.png" style="width: 600px;">
+> <img alt="Re Sync" src="images/re-run.png" style="width: 500px;">
 
 ### Change 2: Update mainClassName
 
