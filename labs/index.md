@@ -34,7 +34,7 @@ Find the Gradle icon on the right-side toolbar.
 
 Click the Gradle icon to open the Gradle panel. Then click the first icon on the left, which is the Sync/Reload Gradle Project button.
 
-![Sync icon](images/re-run.png)
+![Sync icon](images/first_one.png)
 
 Wait for IntelliJ IDEA to finish syncing the project.
 
@@ -63,7 +63,7 @@ For example:
 // jcenter()
 mavenCentral()
 
-[Insert image showing the jcenter() and mavenCentral() change here]
+![Sync icon](images/re-run.png)
 
 ### Change 2: Update mainClassName
 
@@ -83,7 +83,7 @@ application {
 
 Make sure the application { } block is placed at the top level of the build.gradle file, not inside another block.
 
-[Insert image showing the completed application { } block here]
+![Sync icon](images/end_one.png)
 
 ## 3. Save and Sync Again
 
