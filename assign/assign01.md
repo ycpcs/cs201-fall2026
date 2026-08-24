@@ -11,11 +11,11 @@ Acknowledgment: The idea for this assignment comes from [Tom Ellman](http://page
 
 ## Getting Started
 
-Download [CS201\_Assign01\_Gradle.zip](CS201_Assign01_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Assign01\_Gradle.zip](CS201_Assign01_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. Import it into your **CS201-Fall2026** IntelliJ project using
 
-> **File&rarr;New&rarr;Module from Existing Sources...**
+> **File&rarr;New&rarr;Project from Existing Sources...**
 
-Select the **CS201\_Assign01\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Select the **CS201\_Assign01\_Gradle** directory and click **Select Folder**.
 
 You should see a project called **CS201\_Assign01\_Gradle** in the Project window.
 
