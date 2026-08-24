@@ -20,6 +20,10 @@ Any labs not completed by the exam they precede will receive no credit.
 <b>Make sure you have set up the outer project directory properly as described in the Resources tab.</b>
 </div>
 
+# Please scroll to the bottom of the page to find the Gradle troubleshooting guide.
+
+<script>autogenLabs();</script>
+
 # Procedure to Fix the Gradle Sync Error in IntelliJ IDEA
 
 After importing your lab project into IntelliJ IDEA, follow the steps below to make sure the project is configured correctly.
@@ -97,5 +101,3 @@ After making both changes:
 
 If the sync finishes without an error message, the problem has been fixed. You can now start working on your lab.
 
-
-<script>autogenLabs();</script>
