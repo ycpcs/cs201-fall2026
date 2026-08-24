@@ -32,7 +32,7 @@ Find the Gradle icon on the right-side toolbar.
 
 Click the Gradle icon to open the Gradle panel. Then click the first icon on the left, which is the Sync/Reload Gradle Project button.
 
-[Insert image showing the Sync/Reload Gradle icon here]
+![Gradle icon](images/gradle-icon.png)
 
 Wait for IntelliJ IDEA to finish syncing the project.
 
