@@ -34,7 +34,7 @@ Find the Gradle icon on the right-side toolbar.
 
 Click the Gradle icon to open the Gradle panel. Then click the first icon on the left, which is the Sync/Reload Gradle Project button.
 
-> <img alt="Sync icon" src="images/first_one.png" style="width: 200px;">
+> <img alt="Sync icon" src="images/first_one.png" style="width: 400px;">
 
 Wait for IntelliJ IDEA to finish syncing the project.
 
@@ -42,7 +42,7 @@ If you do not see any error messages, you are all set and can start working on y
 
 If you see a Gradle error, similar to the example below, continue with the following steps.
 
-> <img alt="Error Message" src="images/error.png" style="width: 200px;">
+> <img alt="Error Message" src="images/error.png" style="width: 400px;">
 
 ## 2. Open build.gradle
 
@@ -63,7 +63,7 @@ For example:
 // jcenter()
 mavenCentral()
 
-> <img alt="Re Sync" src="images/re-run.png" style="width: 200px;">
+> <img alt="Re Sync" src="images/re-run.png" style="width: 400px;">
 
 ### Change 2: Update mainClassName
 
@@ -83,7 +83,7 @@ application {
 
 Make sure the application { } block is placed at the top level of the build.gradle file, not inside another block.
 
-> <img alt="Second Change" src="images/end_one.png" style="width: 200px;">
+> <img alt="Second Change" src="images/end_one.png" style="width: 400px;">
 
 ## 3. Save and Sync Again
 
