@@ -7,7 +7,7 @@ title: "Lab 3: Arrays and ArrayLists"
 
 Download [CS201\_Lab03\_Gradle.zip](CS201_Lab03_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. Import it into IntelliJ project using
 
-> **File&rarr;New&rarr;Project from Existing Sources...**
+> **Open**
 
 Select the **CS201\_Lab03\_Gradle** directory and click **Select Folder**.
 
