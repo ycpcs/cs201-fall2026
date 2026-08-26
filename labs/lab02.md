@@ -9,7 +9,7 @@ For this lab you will implement a class that represents a pocketful of change.
 
 Download [CS201\_Lab02\_Gradle.zip](CS201_Lab02_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. Import it as an IntelliJ project using
 
-> **File&rarr;New&rarr;Project from Existing Sources...**
+> **Open**
 
 Select the **CS201\_Lab02\_Gradle** directory and click **Select Folder**.
 
