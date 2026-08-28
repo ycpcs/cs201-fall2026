@@ -20,7 +20,7 @@ Any labs not completed by the exam they precede will receive no credit.
 <b>Make sure you have set up the outer project directory properly as described in the Resources tab.</b>
 </div>
 
-# Please check [this link][IntelliJ.pdf] for detailed instructions on how to import a lab project into IntelliJ IDEA.
+# Please check [this link](IntelliJ.pdf) for detailed instructions on how to import a lab project into IntelliJ IDEA.
 
 # Please scroll to the bottom of the page to find the Gradle troubleshooting guide.
 
