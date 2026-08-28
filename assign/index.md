@@ -17,6 +17,7 @@ Assignments are due by 11:59 PM on the due date, although I will **NOT** assess 
 > [Assignment 3: Klondike](assign03.html) |  [CS201\_Assign03\_Gradle.zip](CS201_Assign03_Gradle.zip) | MS1 due Wed, Oct 21st<br>MS2 due Thur, Nov 5th
 > [Assignment 4: Mandelbrot Set Renderer](assign04.html) | [CS201\_Assign04\_Gradle.zip](CS201_Assign04_Gradle.zip) | MS1 due Mon, Nov 16th <br> MS2 due Tue, Dec 1st
 
+# Please check [this link](labs/IntelliJ.pdf) for detailed instructions on how to import a lab project into IntelliJ IDEA.
 
 # Procedure to Fix the Gradle Sync Error in IntelliJ IDEA
 
