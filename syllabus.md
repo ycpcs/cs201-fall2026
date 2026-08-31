@@ -19,7 +19,7 @@ Instructor:
 > 101 (12:30 PM - 1:45 PM) | Mon/Wed | KEC 119 
 > 102 (2:00 PM - 3:15 PM) | Mon/Wed | KEC 119 
 
-**Tutor Sessions**
+**Tutoring Sessions**
 - Monday: 6:00pm to 8:00pm in KEC119
 - Tuesday: 6:00pm to 8:00pm in KEC130 
 - Wednesday: 6:00pm to 8:00pm in KEC119
