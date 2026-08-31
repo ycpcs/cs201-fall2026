@@ -13,10 +13,10 @@ We will have in-class tutors this year for assistance with the labs and assignme
 # Evening Sessions
 
 
-Monday: 6:00pm to 8:00pm in KEC119
-Tuesday: 6:00pm to 8:00pm in KEC130 
-Wednesday: 6:00pm to 8:00pm in KEC119
-Thursday: 6:00pm to 8:00pm in KEC130 
+- Monday: 6:00pm to 8:00pm in KEC119
+- Tuesday: 6:00pm to 8:00pm in KEC130 
+- Wednesday: 6:00pm to 8:00pm in KEC119
+- Thursday: 6:00pm to 8:00pm in KEC130 
 
 Drop-in tutoring sessions will be held Monday through Thursday from
 6:00pm to 8:00pm.  These sessions are a great way to get help with labs,
