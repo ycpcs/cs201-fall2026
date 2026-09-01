@@ -2,45 +2,45 @@
 
 courseInfo.classPeriods = [
 	{
-		topic: new DoubleTopic("Lecture 1: Introduction, Primitive Java", "lectures/lecture01.html","CS201_Lecture01_Gradle.zip", "examples/CS201_Lecture01_Gradle.zip"),
+		topic: new DoubleTopic("Lecture 1: Introduction, Primitive Java", "lectures/lecture01.html","CS201_Lecture01_Gradle.zip", "examples/L1.zip"),
 		reading: "1.1&ndash;1.6",
 		lab: new NumberedLabGradle(1, "Dog Years")
 	},
 	{
-		topic: new DoubleTopic("Lecture 2: Classes, Objects/References, Encapsulation", "lectures/lecture02.html","CS201_Lecture02_Gradle.zip", "examples/CS201_Lecture02_Gradle.zip"),
+		topic: new DoubleTopic("Lecture 2: Classes, Objects/References, Encapsulation", "lectures/lecture02.html","CS201_Lecture02_Gradle.zip", "examples/L2.zip"),
 		reading: "2.1&ndash;2.3",
 		lab: new NumberedLabGradle(2, "Coins class")
 	},
 	{
-		topic: new DoubleTopic("Lecture 3: Arrays and ArrayLists", "lectures/lecture03.html", "CS201_Lecture03_Gradle.zip", "examples/CS201_Lecture03_Gradle.zip"),
+		topic: new DoubleTopic("Lecture 3: Arrays and ArrayLists", "lectures/lecture03.html", "CS201_Lecture03_Gradle.zip", "examples/L3.zip"),
 		reading: "3.1&ndash;3.9",
 		lab: new NumberedLabGradle(3, "Arrays and ArrayLists")
 	},
 	{
-		topic: new TripleTopic("Lecture 4: GUIs and MVC", "lectures/lecture04.html", "CS201_Lecture04_Gradle.zip", "examples/CS201_Lecture04_Gradle.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
+		topic: new TripleTopic("Lecture 4: GUIs and MVC", "lectures/lecture04.html", "CS201_Lecture04_Gradle.zip", "examples/L4.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
 		lab: new NumberedLabGradle(4, "Drag and Drop GUI")
 	},
 	{
-		topic: new DoubleTopic("Lecture 5: Overloading, JUnit", "lectures/lecture05.html", "CS201_Lecture05_Gradle.zip", "examples/CS201_Lecture05_Gradle.zip"),
+		topic: new DoubleTopic("Lecture 5: Overloading, JUnit", "lectures/lecture05.html", "CS201_Lecture05_Gradle.zip", "examples/L5.zip"),
 		lab: new NumberedLabGradle(5, "Testing Overloaded Constructors")
 	},
  	{
- 		topic: new DoubleTopic("Lecture 6: File I/O, Exceptions", "lectures/lecture06.html", "CS201_Lecture06_Gradle.zip","examples/CS201_Lecture06_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 6: File I/O, Exceptions", "lectures/lecture06.html", "CS201_Lecture06_Gradle.zip","examples/L6.zip"),
  		reading: "2.5&ndash;2.6",
  		lab: new NumberedLabGradle(6, "Text File I/O")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 7: Exceptions", "lectures/lecture07.html", "CS201_Lecture07_Gradle.zip", "examples/CS201_Lecture07_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 7: Exceptions", "lectures/lecture07.html", "CS201_Lecture07_Gradle.zip", "examples/L7.zip"),
  		reading: "2.5",
  		lab: new NumberedLabGradle(7, "Exceptions")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 8: Inheritance", "lectures/lecture08.html", "CS201_Lecture08_Gradle.zip","examples/CS201_Lecture08_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 8: Inheritance", "lectures/lecture08.html", "CS201_Lecture08_Gradle.zip","examples/L8.zip"),
  		reading: "4.1&ndash;4.2",
  		lab: new NumberedLabGradle(8, "Inheritance and Polymorphism")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 9: Inheritance (continued)", "lectures/lecture09.html", "CS201_Lecture09_Gradle.zip","examples/CS201_Lecture09_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 9: Inheritance (continued)", "lectures/lecture09.html", "CS201_Lecture09_Gradle.zip","examples/L9.zip"),
  		reading: "4.3&ndash;4.4",
  		lab: new NumberedLabGradle(9, "Inheriting Fields and Methods")
  	},
@@ -51,16 +51,16 @@ courseInfo.classPeriods = [
  		topic: new Topic("** Exam 1", "")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 10: Type casts, instanceof, Object class, Interfaces", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip","examples/CS201_Lecture10_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 10: Type casts, instanceof, Object class, Interfaces", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip","examples/L10.zip"),
  		lab: new NumberedLabGradle(10, "Comparable, Sorting")
  	},
  	{
- 		topic: new TripleTopic("Lecture 11: Generic methods and classes", "lectures/lecture11.html", "CS201_Lecture11_Gradle.zip","examples/CS201_Lecture11_Gradle.zip", "CS201_Lecture11_Gradle_Final.zip","examples/CS201_Lecture11_Gradle_Final.zip"),
+ 		topic: new TripleTopic("Lecture 11: Generic methods and classes", "lectures/lecture11.html", "CS201_Lecture11_Gradle.zip","examples/L11.zip", "CS201_Lecture11_Gradle_Final.zip","examples/CS201_Lecture11_Gradle_Final.zip"),
  		reading: "4.5&ndash;4.7",
  		lab: new NumberedLabGradle(11, "Using Generic Containers and Algorithms")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 12: Generic methods, functors", "lectures/lecture12.html", "CS201_Lecture12_Gradle.zip","examples/CS201_Lecture12_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 12: Generic methods, functors", "lectures/lecture12.html", "CS201_Lecture12_Gradle.zip","examples/L12.zip"),
  		reading: "4.8",
  		lab: new NumberedLabGradle(12, "Functors")
  	},
@@ -80,12 +80,12 @@ courseInfo.classPeriods = [
 //		lab: new NumberedLabNoFile(13, "Big-O")
 //	},
  	{
- 		topic: new DoubleTopic("Lecture 15: Collections, Iterators", "lectures/lecture15.html", "CS201_Lecture15_Gradle.zip","examples/CS201_Lecture15_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 15: Collections, Iterators", "lectures/lecture15.html", "CS201_Lecture15_Gradle.zip","examples/L15.zip"),
  		reading: "6.1-6.3",
  		lab: new NumberedLabGradle(15, "Iterators, Interleaving")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 16: Generic Algorithms", "lectures/lecture16.html", "CS201_Lecture16_Gradle.zip","examples/CS201_Lecture16_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 16: Generic Algorithms", "lectures/lecture16.html", "CS201_Lecture16_Gradle.zip","examples/L16.zip"),
  		reading: "6.4",
  		lab: new NumberedLabGradle(16, "Generic Algorithms")
  	},
@@ -96,21 +96,21 @@ courseInfo.classPeriods = [
  		topic: new Topic("** Exam 2", "")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 18: Parallel Programming with Threads", "lectures/lecture18.html", "CS201_Lecture18_Gradle.zip","examples/CS201_Lecture18_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 18: Parallel Programming with Threads", "lectures/lecture18.html", "CS201_Lecture18_Gradle.zip","examples/L18.zip"),
  		lab: new NumberedLabGradle(18, "Parallel Estimation of π")
  	},
  	{
- 		topic: new TripleTopic("Lecture 17: Lists", "lectures/lecture17.html","Lecture 19: Stacks and Queues", "lectures/lecture19.html", "CS201_Lecture19_Gradle.zip","examples/CS201_Lecture19_Gradle.zip"),
+ 		topic: new TripleTopic("Lecture 17: Lists", "lectures/lecture17.html","Lecture 19: Stacks and Queues", "lectures/lecture19.html", "CS201_Lecture19_Gradle.zip","examples/L19.zip"),
  		reading: "6.5-6.6",
  		lab: new DoubleNumberedLabGradle(17, "List Reversal", 19, "Palindromes")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/L20.zip"),
  		reading: "6.7-6.8",
  		lab: new NumberedLabGradle(20, "Word Count")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/CS201_Lecture21_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/L21.zip"),
  		reading: "7.1, 7.3",
  		lab: new NumberedLabGradle(21, "Recursion")
  	},
@@ -120,7 +120,7 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabNoFile(22, "Proof by Induction")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 23: Memoization and Dynamic Programming", "lectures/lecture23.html", "CS201_Lecture23_Gradle.zip","examples/CS201_Lecture23_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 23: Memoization and Dynamic Programming", "lectures/lecture23.html", "CS201_Lecture23_Gradle.zip","examples/L23.zip"),
  		reading: "7.6",
  		lab: new NumberedLabGradle(23, "Binomial Coefficient")
  	},
