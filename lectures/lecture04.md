@@ -216,4 +216,4 @@ The most important thing to think about as you look at this code is the event-dr
 
 Here is another example project using a Model/View/Controller architecture:
 
-> [CS201_GUIMVCDemo.zip](CS201_GUIMVCDemo.zip)
+> [CS201_GUIMVCDemo.zip](CS201_GUIMVCDemo_Gradle.zip)
