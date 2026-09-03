@@ -5,11 +5,15 @@ title: "Lab 5: Testing Overloaded Constructors"
 
 ## Getting Started
 
-Download [CS201\_Lab05\_Gradle.zip](CS201_Lab05_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Lab05\_Gradle.zip](CS201_Lab05_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. 
 
-> **File&rarr;New&rarr;Module from Existing Sources...**
+## Copy and Paste your Lab2 into CS_201_Lab05_Gradle folder
 
-Select the **CS201\_Lab05\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Import it into your **CS201-Fall2026** IntelliJ project using
+
+> **open**
+
+Select the **CS201\_Lab05\_Gradle** directory and click **Select Folder**.
 
 You should see a project called **CS201\_Lab05\_Gradle** in the Project window.
 
