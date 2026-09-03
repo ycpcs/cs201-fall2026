@@ -53,28 +53,4 @@ Make the following modifications to the **CoinsTest** class:
 
 ## Submitting
 
-When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
-
-<pre>
-$ <b>cd CS201_Lab05_Gradle</b>
-CS201-Spring2022/CS201_Lab05_Gradle
-$ <b>make submit</b>
-</pre>
-
-Enter your [Marmoset](https://cs.ycp.edu/marmoset) username and password, if successful you should see
-
-<pre>
-######################################################################
-              >>>>>>>> Successful submission! <<<<<<<<<
-
-Make sure that you log into the marmoset server to manually
-check that the files you submitted are correct.
-
-Details:
-
-         Semester:   Spring 2022
-         Course:     CS 201
-         Assignment: lab05
-
-######################################################################
-</pre>
+When you are done, submit the lab to the Marmoset server using the **Plugin** in IntelliJ.
