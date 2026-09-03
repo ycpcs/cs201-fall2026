@@ -7,7 +7,7 @@ title: "Lab 5: Testing Overloaded Constructors"
 
 Download [CS201\_Lab05\_Gradle.zip](CS201_Lab05_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. 
 
-## Copy and Paste your Lab2 into CS_201_Lab05_Gradle folder
+## Copy and Paste your Lab2 folder (CS201_Lab02_Gradle) into CS201_Lab05_Gradle folder
 
 Import it into your **CS201-Fall2026** IntelliJ project using
 
