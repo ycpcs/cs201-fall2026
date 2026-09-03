@@ -27,7 +27,7 @@ In this lab, you will build upon the classes from [Lab 2](lab02.html) to add sev
 
 **There is no executable application for this lab.** Instead, we will test the class implementation by running the unit tests by right-clicking on the file **CoinsTest.java** in the **src/test/java/** directory, and then choosing
 
-> **Run 'CoinsTest (1)'**
+> **Run 'CoinsTest'**
 
 Or subsequently by selecting **CoinsTest** from the dropdown list in the top right corner of the IDE and clicking the green arrow.
 
