@@ -256,7 +256,9 @@ For both milestones, points may be deducted for poor coding style, including:
 
 ## Submitting
 
-When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). 
+When you are done, submit the lab to the Marmoset server using the Marmoset Plugin in IntelliJ.
+
+<!--
 
 ### Milestone 1
 
@@ -313,6 +315,8 @@ Details:
 
 ######################################################################
 </pre>
+
+-->
 
 ### After you submit
 
