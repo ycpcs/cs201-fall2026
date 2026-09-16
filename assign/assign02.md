@@ -9,11 +9,11 @@ title: "Assignment 2: Tic Tac Toe"
 
 ## Getting Started
 
-Download [CS201\_Assign02\_Gradle.zip](CS201_Assign02_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Assign02\_Gradle.zip](CS201_Assign02_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. Import it into your **CS201-Fall2026** IntelliJ project using
 
-> **File&rarr;New&rarr;Module from Existing Sources...**
+> **Open**
 
-Select the **CS201\_Assign02\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Select the **CS201\_Assign02\_Gradle** directory and click **select folder**.
 
 You should see a project called **CS201\_Assign02\_Gradle** in the Project window.
 
@@ -34,6 +34,34 @@ Run the program by right-clicking on the file **TicTacToeGUI.java** in the **src
 > **Run 'TicTacToeGUI.main()'**
 
 Or subsequently by selecting **TicTacToeGUI** from the dropdown list in the top right corner of the IDE and clicking the green arrow.
+
+**To submit Milestone 2, update the following two files:**
+
+1. In `assignment_info.cmake`, change:
+
+```cmake
+set(PROJECT_NUMBER "assign02_ms1")
+```
+
+to:
+
+```cmake
+set(PROJECT_NUMBER "assign02_ms2")
+```
+
+2. In `submit.properties`, change:
+
+```properties
+projectNumber = assign02_ms1
+```
+
+to:
+
+```properties
+projectNumber = assign02_ms2
+```
+
+Save both files before submitting.
 
 ## Your Task
 
@@ -288,63 +316,39 @@ For both milestones, points may be deducted for poor coding style, including:
 
 ## Submitting
 
-When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). 
-
-### Milestone 1
-
-Navigate to the directory using
-
-<pre>
-$ <b>cd CS201_Assign02_Gradle</b>
-CS201-Spring2022/CS201_Assign02_Gradle
-$ <b>make submit_ms1</b>
-</pre>
-
-Enter your [Marmoset](https://cs.ycp.edu/marmoset) username and password, if successful you should see
-
-<pre>
-######################################################################
-              >>>>>>>> Successful submission! <<<<<<<<<
-
-Make sure that you log into the marmoset server to manually
-check that the files you submitted are correct.
-
-Details:
-
-         Semester:   Fall 2026
-         Course:     CS 201
-         Assignment: assign02_ms1
-
-######################################################################
-</pre>
+When you are done, submit the lab to the Marmoset server using the **Plugin** in IntelliJ.
 
 ### Milestone 2
 
-Navigate to the directory using
+**To submit Milestone 2, update the following two files:**
 
-<pre>
-$ <b>cd CS201_Assign02_Gradle</b>
-CS201-Spring2022/CS201_Assign02_Gradle
-$ <b>make submit_ms2</b>
-</pre>
+1. In `assignment_info.cmake`, change:
 
-Enter your [Marmoset](https://cs.ycp.edu/marmoset) username and password, if successful you should see
+```cmake
+set(PROJECT_NUMBER "assign02_ms1")
+```
 
-<pre>
-######################################################################
-              >>>>>>>> Successful submission! <<<<<<<<<
+to:
 
-Make sure that you log into the marmoset server to manually
-check that the files you submitted are correct.
+```cmake
+set(PROJECT_NUMBER "assign02_ms2")
+```
 
-Details:
+2. In `submit.properties`, change:
 
-         Semester:   Fall 2026
-         Course:     CS 201
-         Assignment: assign02_ms2
+```properties
+projectNumber = assign02_ms1
+```
 
-######################################################################
-</pre>
+to:
+
+```properties
+projectNumber = assign02_ms2
+```
+
+Save both files before submitting.
+
+When you are done, submit the lab to the Marmoset server using the **Plugin** in IntelliJ.
 
 ### After you submit
 
