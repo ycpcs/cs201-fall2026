@@ -41,6 +41,35 @@ For the second part of this milestone, run the program by right-clicking on the 
 
 Or subsequently by selecting **DisksApp** from the dropdown list in the top right corner of the IDE and clicking the green arrow.
 
+**To submit Milestone 2, update the following two files:**
+
+1. In `assignment_info.cmake`, change:
+
+```cmake
+set(PROJECT_NUMBER "assign01_ms1")
+```
+
+to:
+
+```cmake
+set(PROJECT_NUMBER "assign01_ms2")
+```
+
+2. In `submit.properties`, change:
+
+```properties
+projectNumber = assign01_ms1
+```
+
+to:
+
+```properties
+projectNumber = assign01_ms2
+```
+
+Save both files before submitting.
+
+
 ## Your Task
 
 Your task is to complete your implementation of the Disk Placement game described below. Here is a screenshot of what the completed game will look like:
