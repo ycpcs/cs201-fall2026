@@ -129,4 +129,4 @@ public void testFindAverageSpeed() throws Exception {
 
 ## Submitting
 
-When you are done, submit the lab to the Marmoset server using the **Plugin**in IntelliJ.
+When you are done, submit the lab to the Marmoset server using the **Plugin** in IntelliJ.
