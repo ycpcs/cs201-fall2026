@@ -5,12 +5,11 @@ title: "Lab 13: Benchmarking ArrayList"
 
 ## Getting Started
 
-Download [CS201\_Lab13\_Gradle.zip](CS201_Lab13_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Lab13\_Gradle.zip](CS201_Lab13_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. Import it into your **CS201-Fall2026** IntelliJ project using
 
-> **File&rarr;New&rarr;Module from Existing Sources...**
+> **Open**
 
-Select the **CS201\_Lab13\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
-
+Select the **CS201\_Lab13\_Gradle** directory and click **Select Folder**.
 You should see a project called **CS201\_Lab13\_Gradle** in the Project window.
 
 Run the program by right-clicking on the file **Benchmark.java** in the **src/main/java/** directory, and then choosing
@@ -96,28 +95,4 @@ Copy your Excel file into the Eclipse project. (Put it in the subdirectory of yo
 
 ## Submitting
 
-When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
-
-<pre>
-$ <b>cd CS201_Lab13_Gradle</b>
-CS201-Spring2022/CS201_Lab13_Gradle
-$ <b>make submit</b>
-</pre>
-
-Enter your [Marmoset](https://cs.ycp.edu/marmoset) username and password, if successful you should see
-
-<pre>
-######################################################################
-              >>>>>>>> Successful submission! <<<<<<<<<
-
-Make sure that you log into the marmoset server to manually
-check that the files you submitted are correct.
-
-Details:
-
-         Semester:   Spring 2022
-         Course:     CS 201
-         Assignment: lab13
-
-######################################################################
-</pre>
+When you are done, submit the lab to the Marmoset server using IntelliJ.
