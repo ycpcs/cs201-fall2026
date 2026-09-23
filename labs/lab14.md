@@ -13,8 +13,11 @@ As soon as you are done with your answer for the first problem, show your answer
 
 Before you submit, show your work to the instructor or a tutor.
 
+<!--
 
-%You can check your answers against the [solutions](lab14soln.pdf).
+You can check your answers against the [solutions](lab14soln.pdf).
+
+-->
 
 ### Problem 1
 
