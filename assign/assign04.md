@@ -12,11 +12,11 @@ Getting Started
 
 ## Getting Started
 
-Download [CS201\_Assign04\_Gradle.zip](CS201_Assign04_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Assign04\_Gradle.zip](CS201_Assign04_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2026** directory. Import it into your **CS201-Fall2026** IntelliJ project using
 
-> **File&rarr;New&rarr;Module from Existing Sources...**
+> **Open**
 
-Select the **CS201\_Assign04\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Select the **CS201\_Assign04\_Gradle** directory and click **Select Folder**.
 
 You should see a project called **CS201\_Assign04\_Gradle** in the Project window.
 
@@ -43,6 +43,34 @@ Or subsequently by selecting **Mandelbrot** from the dropdown list in the top ri
 > **Run 'ColorMappingColorChooserTest'**
 
 Or subsequently by selecting **ColorMappingColorChooserTest** from the dropdown list in the top right corner of the IDE and clicking the green arrow.
+
+**To submit Milestone 2, update the following two files:**
+
+1. In `assignment_info.cmake`, change:
+
+```cmake
+set(PROJECT_NUMBER "assign04_ms1")
+```
+
+to:
+
+```cmake
+set(PROJECT_NUMBER "assign04_ms2")
+```
+
+2. In `submit.properties`, change:
+
+```properties
+projectNumber = assign04_ms1
+```
+
+to:
+
+```properties
+projectNumber = assign04_ms2
+```
+
+Save both files before submitting.
 
 ## Your Task
 
@@ -289,63 +317,36 @@ For example, you might divide the overall region into quadrants or horizontal/ve
 
 ## Submitting
 
-When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). 
-
-### Milestone 1
-
-Navigate to the directory using
-
-<pre>
-$ <b>cd CS201_Assign04_Gradle</b>
-CS201-Spring2022/CS201_Assign04_Gradle
-$ <b>make submit_ms1</b>
-</pre>
-
-Enter your [Marmoset](https://cs.ycp.edu/marmoset) username and password, if successful you should see
-
-<pre>
-######################################################################
-              >>>>>>>> Successful submission! <<<<<<<<<
-
-Make sure that you log into the marmoset server to manually
-check that the files you submitted are correct.
-
-Details:
-
-         Semester:   Fall 2026
-         Course:     CS 201
-         Assignment: assign04_ms1
-
-######################################################################
-</pre>
+When you are done, submit the lab to the Marmoset server using the Plugin in IntelliJ.
 
 ### Milestone 2
 
-Navigate to the directory using
+1. In `assignment_info.cmake`, change:
 
-<pre>
-$ <b>cd CS201_Assign04_Gradle</b>
-CS201-Spring2022/CS201_Assign04_Gradle
-$ <b>make submit_ms2</b>
-</pre>
+```cmake
+set(PROJECT_NUMBER "assign04_ms1")
+```
 
-Enter your [Marmoset](https://cs.ycp.edu/marmoset) username and password, if successful you should see
+to:
 
-<pre>
-######################################################################
-              >>>>>>>> Successful submission! <<<<<<<<<
+```cmake
+set(PROJECT_NUMBER "assign04_ms2")
+```
 
-Make sure that you log into the marmoset server to manually
-check that the files you submitted are correct.
+2. In `submit.properties`, change:
 
-Details:
+```properties
+projectNumber = assign04_ms1
+```
 
-         Semester:   Fall 2026
-         Course:     CS 201
-         Assignment: assign04_ms2
+to:
 
-######################################################################
-</pre>
+```properties
+projectNumber = assign04_ms2
+```
+
+Save both files before submitting, and submit through Plugin.
+
 
 ### After you submit
 
