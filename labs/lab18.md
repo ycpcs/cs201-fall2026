@@ -34,7 +34,7 @@ Letting *r* equal 0.5, and re-arranging to solve for π,
 
 The formula used to check if a point is in a circle is
 
-> (x - h)*<sup>2</sup> + (y - k)*<sup>2</sup> < r*<sup>2</sup>
+> (x - h)*<sup>2</sup> + (y - k)*<sup>2</sup> < r<sup>2</sup>
 where (h,k) is the center of the circle and r is the radius
 
 For example, here is a picture showing 5000 random points within a 200 by 200 square centered at the origin, along with an outline of a circle within the square:
