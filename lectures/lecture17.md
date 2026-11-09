@@ -23,7 +23,7 @@ Here are the worst-case and average-case running times for the important list op
 > remove(int index)|O(N)|O(N)
 > remove using Iterator|O(N)|O(N)
 
-Although the **add** method might take O(N) time in the worst case (if the storage array needs to be re-allocated), the average case is O(1), assuming that the size of the storage array is doubled each time it is re-allocateed. (See the [course notes on arrays](../notes/javaArrays.html) for details.)
+Although the **add** method might take O(N) time in the worst case (if the storage array needs to be re-allocated), the average case is O(1), assuming that the size of the storage array is doubled each time it is re-allocateed. (See the [course notes on arrays](notes/javaArrays.html) for details.)
 
 The **get** and **set** methods are O(1) because they simply involve accessing a single element of the storage array.
 
