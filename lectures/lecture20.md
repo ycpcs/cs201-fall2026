@@ -60,7 +60,7 @@ A full treatment of these data structures will be provided in CS 350, Data Struc
 
 ### Hash tables
 
-[See [course notes on hash tables](hashTables.html).]
+[See [course notes on hash tables](notes/hashTables.html).]
 
 **HashSet&lt;E&gt;** and **HashMap&lt;K, V&gt;** both use a *hash table* as the underlying data structure. A hash table works by using a *hash function* to assign *hash codes* to each key, based on the data contained in the key. The goal of the hash function is to uniformly distribute hash codes to keys, so that two different key values are unlikely to have the same hash code.
 
