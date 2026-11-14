@@ -6,7 +6,7 @@ title: "Slides"
 This page links to lecture slides.
 
 <div class="callout">
-<b>Make sure you have set up the outer project directory properly as described in the Resources tab and load the example code via File&rarr;New&rarr;Project from Existing Sources... as a project.</b>
+Please use these slides <b>only as a study guide</b>. Reviewing the slides alone is <b>NOT</b> sufficient to fully understand the course material or prepare for assignments and exams. You should <b>primarily rely on the lecture notes</b> for learning and reviewing the material, using the slides as a supplementary resource.
 </div>
 
 Date     |    File                          
