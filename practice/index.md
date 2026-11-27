@@ -21,4 +21,5 @@ This page links to practice exams.
 
 > [Solution (written questions)](cs201-fall2016-exam03-solution.pdf), [Solution (programming questions)](CS201_Exam03_Fall2016_Solution_Gradle.zip)
 
-**Additional questions on proof by induction are coming soon...**
+[Proof by Induction Practice](proof_by_induction.pdf)
+> [Solution (proof by induction)](sol_proof_by_induction.pdf)
